@@ -1,0 +1,12 @@
+{
+  "name": "radmacher",
+  "version": "0.0.1",
+  "description": "Just another simple CLI application",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": ["CLI", "radmacher"],
+  "author": "rdmchr",
+  "license": "MIT"
+}
